@@ -13,6 +13,9 @@ DoneList
 ToDo
 --------------
 > [SimpleSinglrCore](/SimpleSignalrCore.md) How to use signalr in dotnet core.Minimum dependency.
+
 > [SimpleWebApiCore](/SimpleWebAPiCore.md)  How to use WebApi in dotnet core. Minimum dependency.
+
 > [SimpleSwaggerCore](/SimpleSwaggerCore.md) How to use Swagger in dotnet core webapi.Minimum dependency.
+
 > [SimpleCorsCore](/SimpleCorCore.md) How to use Cors in dotnet core . Minimum dependency.
