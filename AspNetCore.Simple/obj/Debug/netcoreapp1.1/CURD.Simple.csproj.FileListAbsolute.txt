@@ -1,0 +1,8 @@
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\bin\Debug\netcoreapp1.1\CURD.Simple.deps.json
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\bin\Debug\netcoreapp1.1\CURD.Simple.runtimeconfig.json
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\bin\Debug\netcoreapp1.1\CURD.Simple.runtimeconfig.dev.json
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\bin\Debug\netcoreapp1.1\CURD.Simple.dll
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\bin\Debug\netcoreapp1.1\CURD.Simple.pdb
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\obj\Debug\netcoreapp1.1\CURD.Simple.AssemblyInfo.cs
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\obj\Debug\netcoreapp1.1\CURD.Simple.dll
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\obj\Debug\netcoreapp1.1\CURD.Simple.pdb

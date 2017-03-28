@@ -1,0 +1,9 @@
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\bin\Debug\netcoreapp1.1\AspNetCore.Simple.deps.json
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\bin\Debug\netcoreapp1.1\AspNetCore.Simple.runtimeconfig.json
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\bin\Debug\netcoreapp1.1\AspNetCore.Simple.runtimeconfig.dev.json
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\bin\Debug\netcoreapp1.1\AspNetCore.Simple.dll
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\obj\Debug\netcoreapp1.1\AspNetCore.Simple.csprojResolveAssemblyReference.cache
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\obj\Debug\netcoreapp1.1\AspNetCore.Simple.AssemblyInfo.cs
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\bin\Debug\netcoreapp1.1\AspNetCore.Simple.pdb
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\obj\Debug\netcoreapp1.1\AspNetCore.Simple.dll
+D:\Code\PrivateCode\Practice\AspNetCore.Simple\AspNetCore.Simple\obj\Debug\netcoreapp1.1\AspNetCore.Simple.pdb
