@@ -8,7 +8,7 @@ Fix the Project in Times
 DoneList
 -------------
 
-> 1.[SimpleCURD](/SimpleCURD.MD) It's a Simple Test To Use EFOrm Create a Curd.
+> 1.[SimpleCURD](/SimpleCURD.md) It's a Simple Test To Use EFOrm Create a Curd.
 
 ToDo
 --------------
