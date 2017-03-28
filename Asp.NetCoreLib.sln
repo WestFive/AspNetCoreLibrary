@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{11FA56EB-C05
 		SimpleCURD.MD = SimpleCURD.MD
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSignalRCore", "SimpleSignalRCore\SimpleSignalRCore.csproj", "{47FC08F5-72E2-4A08-B364-9163234B62EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,11 +29,16 @@ Global
 		{7B1AB046-1284-4BCA-9406-3B7DF0A3E61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B1AB046-1284-4BCA-9406-3B7DF0A3E61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B1AB046-1284-4BCA-9406-3B7DF0A3E61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47FC08F5-72E2-4A08-B364-9163234B62EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FC08F5-72E2-4A08-B364-9163234B62EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FC08F5-72E2-4A08-B364-9163234B62EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FC08F5-72E2-4A08-B364-9163234B62EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7B1AB046-1284-4BCA-9406-3B7DF0A3E61B} = {36853C7E-E837-4AA6-9BE1-A716D59B2190}
+		{47FC08F5-72E2-4A08-B364-9163234B62EE} = {36853C7E-E837-4AA6-9BE1-A716D59B2190}
 	EndGlobalSection
 EndGlobal

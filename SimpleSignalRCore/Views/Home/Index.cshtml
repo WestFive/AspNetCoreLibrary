@@ -1,0 +1,92 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+}
+
+
+<!DOCTYPE html5>
+<html lang="eng">
+<head>
+    <meta charset="utf-8" />
+    <title>none</title>
+    <script src="http://oion935wi.bkt.clouddn.com/jquery-1.6.4.min.js"></script>
+  
+    <style>
+        body {
+            background-image: url("http://ohe5u4k9s.bkt.clouddn.com/bg.jpg");
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center;
+            font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+            color: #333333;
+            background-color: #ffffff;
+        }
+
+        div {
+            border-radius: 5%;
+        }
+
+        #ChildDiv {
+            width: 50%;
+            height: 50px;
+        }
+
+        #MajiKo {
+            width: 50%;
+            height: 50%;
+            margin-left: 55%;
+        }
+
+        #TText {
+            width: 75%;
+            height: 75%;
+        }
+    </style>
+</head>
+<body>
+    <script src="~/Scripts/jquery-1.6.4.js"></script>
+
+    <script src="~/Scripts/jquery.signalR-2.2.1.js"></script>
+
+    <script src="~/signalr/hubs"></script>
+
+    <div class="container">
+        <input type="text" id="message" />
+        <input type="button" id="sendmessage" value="Send" />
+        <ul id="discussion"></ul>
+    </div>
+    <script type="text/javascript">
+            var proxy = $.connection.messageHub;
+            $.connection.hub.start().done(function () {
+                alert("connect sucess");
+                $('#sendmessage').click(function () {
+
+                    proxy.server.sendMessage($('#message').val());
+
+                    $('#message').val('').focus();
+                });
+            });
+
+            proxy.client.GetMessage = function (message) {
+                var encodedMsg = $('<div />').text(message).html();
+
+                $('#discussion').append('<li>' + encodedMsg + '</li>');
+            };
+
+            $('#message').focus();
+
+
+   
+    </script>
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+

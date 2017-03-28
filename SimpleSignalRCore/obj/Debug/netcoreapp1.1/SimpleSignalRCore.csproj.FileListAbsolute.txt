@@ -1,0 +1,9 @@
+D:\Code\PrivateCode\Asp.netCore.Sample\AspNetCoreLibrary\SimpleSignalRCore\bin\Debug\netcoreapp1.1\SimpleSignalRCore.deps.json
+D:\Code\PrivateCode\Asp.netCore.Sample\AspNetCoreLibrary\SimpleSignalRCore\bin\Debug\netcoreapp1.1\SimpleSignalRCore.runtimeconfig.json
+D:\Code\PrivateCode\Asp.netCore.Sample\AspNetCoreLibrary\SimpleSignalRCore\bin\Debug\netcoreapp1.1\SimpleSignalRCore.runtimeconfig.dev.json
+D:\Code\PrivateCode\Asp.netCore.Sample\AspNetCoreLibrary\SimpleSignalRCore\bin\Debug\netcoreapp1.1\SimpleSignalRCore.dll
+D:\Code\PrivateCode\Asp.netCore.Sample\AspNetCoreLibrary\SimpleSignalRCore\obj\Debug\netcoreapp1.1\SimpleSignalRCore.csprojResolveAssemblyReference.cache
+D:\Code\PrivateCode\Asp.netCore.Sample\AspNetCoreLibrary\SimpleSignalRCore\obj\Debug\netcoreapp1.1\SimpleSignalRCore.AssemblyInfo.cs
+D:\Code\PrivateCode\Asp.netCore.Sample\AspNetCoreLibrary\SimpleSignalRCore\bin\Debug\netcoreapp1.1\SimpleSignalRCore.pdb
+D:\Code\PrivateCode\Asp.netCore.Sample\AspNetCoreLibrary\SimpleSignalRCore\obj\Debug\netcoreapp1.1\SimpleSignalRCore.dll
+D:\Code\PrivateCode\Asp.netCore.Sample\AspNetCoreLibrary\SimpleSignalRCore\obj\Debug\netcoreapp1.1\SimpleSignalRCore.pdb
