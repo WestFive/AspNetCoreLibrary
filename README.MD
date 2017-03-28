@@ -5,4 +5,4 @@ Fix the Project in Times
 
 #Documentation#
 ##List##
-1.[SimpleCURD](/Doc/SimpleCURD.MD) It's a Simple Test To Use EFOrm Create a Curd.
+1.[SimpleCURD](/SimpleCURD.MD) It's a Simple Test To Use EFOrm Create a Curd.
