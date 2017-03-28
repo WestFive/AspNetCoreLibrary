@@ -10761,10 +10761,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\PrivateCode\\Practice\\AspNetCore.Simple\\AspNetCore.Simple\\CURD.Simple.csproj",
+      "projectUniqueName": "D:\\Code\\PrivateCode\\Asp.netCore.Sample\\AspNetCoreLibrary\\AspNetCore.Simple\\CURD.Simple.csproj",
       "projectName": "CURD.Simple",
-      "projectPath": "D:\\Code\\PrivateCode\\Practice\\AspNetCore.Simple\\AspNetCore.Simple\\CURD.Simple.csproj",
-      "outputPath": "D:\\Code\\PrivateCode\\Practice\\AspNetCore.Simple\\AspNetCore.Simple\\obj\\",
+      "projectPath": "D:\\Code\\PrivateCode\\Asp.netCore.Sample\\AspNetCoreLibrary\\AspNetCore.Simple\\CURD.Simple.csproj",
+      "outputPath": "D:\\Code\\PrivateCode\\Asp.netCore.Sample\\AspNetCoreLibrary\\AspNetCore.Simple\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
