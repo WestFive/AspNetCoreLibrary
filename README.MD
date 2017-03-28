@@ -1,4 +1,4 @@
-#Asp.NetCore Library#
+#Asp.NetCore Library
 This is a AspNetCore repository 
 And I will keep updating
 Fix the Project in Times
