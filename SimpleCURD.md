@@ -3,6 +3,7 @@ SimpleCURD
 ```
 Fork in docs.microsoft.com
 ```
+[Learn](https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/first-mvc-app/adding-model)
 Step
 ---------------
 ```
