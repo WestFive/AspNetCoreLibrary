@@ -10,7 +10,7 @@ DoneList
 
 > 1.[SimpleCURD](/SimpleCURD.md) It's a Simple Test To Use EFOrm Create a Curd.
 
-> 2.[SimpleSinglrCore](/SimpleSignalrCore.md) How to use signalr in dotnet core.Minimum dependency.
+> 2.[SimpleSinglRCore](/SimpleSignalRCore.md) How to use signalr in dotnet core.Minimum dependency.
 
 ToDo
 --------------
